@@ -38,6 +38,7 @@ public class Student {
 		this.name = name;
 		this.marks = marks;
 	}
+	// no args constructor
 	public Student() {
 		super();
 	}
